@@ -2,7 +2,7 @@
 
 ## Aprendizado de máquina e inteligência artificial em física
 ### Considerando a base de dados contida no arquivo Stars.csv, sobre as características observadas de um conjunto de 240 estrelas.
-### Foi elaborado um código em Python para o processamento desses dados de forma a responder as seguintes questões:
+### Foi elaborado um código em Python, Clustering_Stars.ipynb, para o processamento desses dados de forma a responder as seguintes questões:
 ### 1) Como os dados devem ser preparados para o processamento?
 ### 2) Quais as variáveis devem ser reescalonadas e por qual método?
 ### 3) Aplique a redução de variáveis pelo método PCA e determine o número de componentes necessárias para se explicar, pelo menos, 90% da variância dos dados.
